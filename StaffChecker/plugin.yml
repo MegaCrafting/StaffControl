@@ -1,0 +1,11 @@
+name: StaffControl
+main: com.MegaCraft.StaffControl.StaffControl
+version: 1.0
+author: chandlerpl
+authors: []
+
+commands:
+  staffcontrol:
+    aliases: [staffc,c,check]
+    usage: /<command>
+permissions:
